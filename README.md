@@ -12,14 +12,14 @@ The following is demonstrated in the files contained within this repository:
 - Python was linked to the database via a SQLAlchemy session.
 
 - Precipitation Analysis:
-- Most recent date in the data set was identified
-- Last 12 months of precipitation data was compiled (including the date and precipitation values)
-- The query results were loaded into a Pandas DataFrame and sorted by date
-- A line plot was created to visualize the data
-- Summary statistics were revealed 
+	- Most recent date in the data set was identified
+	- Last 12 months of precipitation data was compiled (including the date and precipitation values)
+	- The query results were loaded into a Pandas DataFrame and sorted by date
+	- A line plot was created to visualize the data
+	- Summary statistics were revealed 
 
 - Station Analysis:
-- Total number of stations in the dataset was identified
+	- Total number of stations in the dataset was identified
 	- Stations and their observation counts were displayed in descending order
 	- The most active station was identified
 	- Lowest, highest, and average temperatures were calculated for the most active station
